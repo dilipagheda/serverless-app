@@ -8,6 +8,17 @@ This application will allow creating/removing/updating/fetching TODO items. Each
 
 The application also has authentication implemented using third partry OAuth provider called Auth0. User can sign-in using a Google account via Auth0 or can create a new user account.
 
+# Screenshots
+
+## React client homepage
+
+![](https://github.com/dilipagheda/serverless-app/blob/master/images/homepage.PNG)
+
+
+## AWS X-ray End to end Tracing from API gateway to Lamda invocation
+
+![](https://github.com/dilipagheda/serverless-app/blob/master/images/xraymapping.PNG)
+
 # TODO items
 
 The application stores TODO items, and each TODO item contains the following fields:
